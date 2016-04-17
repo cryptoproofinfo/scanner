@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_description">Paste a valid compressed bitcoin address below and hit
+        \'Submit\'</string>
+    <string name="blockchain">https://blockchain.info/address/</string>
+    <string name="cryptoproof">https://cryptoproof.info/address/</string>
+    <string-array name="titles">
+        <item>Bitcoin Address:</item>
+        <item>Registered To:</item>
+        <item>Account Status:</item>
+        <item>Hits:</item>
+    </string-array>
+</resources>
